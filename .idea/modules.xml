@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/C++Primer.iml" filepath="$PROJECT_DIR$/.idea/C++Primer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/C__Primer.iml" filepath="$PROJECT_DIR$/.idea/C__Primer.iml" />
     </modules>
   </component>
 </project>

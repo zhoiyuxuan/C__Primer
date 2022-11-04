@@ -3,4 +3,4 @@ project(C__Primer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(C__Primer "1.Start/1.3 comments.cpp" "1.Start/1.4.1 if.cpp")
+add_executable(C__Primer "1.Start/1.3 comments.cpp" "1.Start/1.4.1 if.cpp" "2.Variables&BasicDataStructure/2.3.1 pointer.cpp")

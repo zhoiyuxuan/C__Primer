@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int if_app(){
     int currVal = 0,val = 0;
     if (cin>>currVal) {
         int cnt = 1;
